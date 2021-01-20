@@ -1,4 +1,4 @@
-# Unity3D--restruction-of-ETH-UCY-dataset-by-TXL 2021.1.14-2021.1.20
+# Unity3D--restruction-of-ETH-UCY-dataset-by-TXL 2021.1.14-1.20
 # Function：
 1. eth.cs : It's main function is to create the character and control the movement of the character according to the ETH-eth dataset.
 2. hotel.cs : Based on the ETH-hotel dataset.
